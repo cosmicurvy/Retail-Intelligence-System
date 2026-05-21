@@ -2,7 +2,7 @@
 
 A machine learning project for predicting retail store sales based on product and outlet features. This system helps businesses to forecast sales, optimize inventory and make data-driven decisions. 
 
-![Dashboard](images/retail.png)
+![Dashboard](images/retail.jpg)
 
 ## Dataset
 For this project, I used Big Sales dataset. You can access the dataset using this link: 
